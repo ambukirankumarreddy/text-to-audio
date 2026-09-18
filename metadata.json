@@ -1,0 +1,6 @@
+{
+  "name": "Unity TTS Plugin Studio",
+  "description": "Text-to-Speech & 3D Lip-Sync Plugin for Unity with Indian (Male/Female in 14+ Indic languages) & Global voices, real-time viseme mapping, 3D spatial audio, and downloadable C# plugin package.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
